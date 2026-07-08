@@ -1,0 +1,108 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "weapon": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "armor": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "coin": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "item": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "quest-item": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "character": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "boss": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "secret": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "inn": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "swap": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "shop": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "church": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "achievement": {
+        "x": 120,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "missable-badge": {
+        "x": 160,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    }
+}
+
