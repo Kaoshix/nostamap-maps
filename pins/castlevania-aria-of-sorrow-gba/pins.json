@@ -1,0 +1,170 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 200,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Secret Path"
+    },
+    "missable-badge": {
+        "x": 360,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "heal-potion": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Consumable"
+    },
+    "mana-potion": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Consumable"
+    },
+    "coin": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Money"
+    },
+    "weapon": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "armor": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "accessory": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "save": {
+        "x": 0,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Save"
+    },
+    "wall": {
+        "x": 40,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Wall"
+    },
+    "teleport": {
+        "x": 80,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Teleport"
+    },
+    "room": {
+        "x": 120,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Room"
+    },
+    "red-soul": {
+        "x": 0,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Soul"
+    },
+    "blue-soul": {
+        "x": 40,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Soul"
+    },
+    "yellow-soul": {
+        "x": 80,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Soul"
+    },
+    "green-soul": {
+        "x": 120,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Soul"
+    }
+}
+
