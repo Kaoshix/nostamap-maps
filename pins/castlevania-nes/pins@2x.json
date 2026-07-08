@@ -1,0 +1,226 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 400,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Secret Path"
+    },
+    "missable-badge": {
+        "x": 720,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    },
+    "1-heart": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Ammunition"
+    },
+    "5-heart": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Ammunition"
+    },
+    "400-points": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "700-points": {
+        "x": 240,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "1000-points": {
+        "x": 320,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "2000-points-crown": {
+        "x": 400,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "200-points-chest": {
+        "x": 480,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "food": {
+        "x": 560,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Food"
+    },
+    "golden-potion": {
+        "x": 640,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Skill"
+    },
+    "holy-cross": {
+        "x": 720,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Skill"
+    },
+    "double-shot": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Skill"
+    },
+    "triple-shot": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Skill"
+    },
+    "axe": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "boomerang": {
+        "x": 240,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "dagger": {
+        "x": 320,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "holy-water": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "stop-watch": {
+        "x": 480,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "whip": {
+        "x": 560,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "orb": {
+        "x": 640,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "1up": {
+        "x": 720,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    },
+    "moai": {
+        "x": 0,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Point"
+    }
+}
+

@@ -1,0 +1,444 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "heart-container": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "heart-piece": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "rupee": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "shell": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "small-shield": {
+        "x": 200,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "magical-shield": {
+        "x": 240,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "bow": {
+        "x": 280,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "light-arrow": {
+        "x": 320,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "boomerang": {
+        "x": 360,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "magical-boomerang": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "gust-jar": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "cane-of-pacci": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "pegasus-boots": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "flippers": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "mole-mitts": {
+        "x": 200,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "flame-lantern": {
+        "x": 240,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "cape": {
+        "x": 280,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "grip-ring": {
+        "x": 320,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "power-bracelets": {
+        "x": 360,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "ocarina-of-wind": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "tiger-scroll": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "remote-bomb": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "smiths-sword": {
+        "x": 120,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "white-sword": {
+        "x": 160,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "bomb-bag": {
+        "x": 200,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "quiver": {
+        "x": 240,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "wallet": {
+        "x": 280,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "empty-bottle": {
+        "x": 320,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "kinstone-bag": {
+        "x": 360,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "butterfly": {
+        "x": 0,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "green-kinstone-piece": {
+        "x": 40,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "blue-kinstone-piece": {
+        "x": 80,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "red-kinstone-piece": {
+        "x": 120,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "green-kinstone-fusion": {
+        "x": 160,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "blue-kinstone-fusion": {
+        "x": 200,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "red-kinstone-fusion": {
+        "x": 240,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "small-key": {
+        "x": 280,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "big-key": {
+        "x": 320,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "dungeon-compass": {
+        "x": 360,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "dungeon-map": {
+        "x": 0,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "earth-element": {
+        "x": 40,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "fire-element": {
+        "x": 80,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "water-element": {
+        "x": 120,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "wind-element": {
+        "x": 160,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "spare-key": {
+        "x": 200,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "graveyard-key": {
+        "x": 240,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "book": {
+        "x": 280,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "wake-up-mushroom": {
+        "x": 320,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "jabber-nut": {
+        "x": 360,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "broken-picori-blade": {
+        "x": 0,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "gold-kinstone-piece": {
+        "x": 40,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "gold-kinstone-fusion": {
+        "x": 80,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "quest": {
+        "x": 120,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "swap": {
+        "x": 160,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "fairy": {
+        "x": 200,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "shop": {
+        "x": 240,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "wind-crest": {
+        "x": 280,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "goron": {
+        "x": 320,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "potion": {
+        "x": 360,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "achievement": {
+        "x": 0,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "missable-badge": {
+        "x": 40,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "tingle-trophy": {
+        "x": 80,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    }
+}
+

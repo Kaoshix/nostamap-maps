@@ -1,0 +1,94 @@
+{
+    "tm-hm": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "item": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "quest-item": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "common": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "legendary": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "trainer": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "champion": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "trade": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "swap": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "waiting": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "achievement-blue": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "achievement-red": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "missable-badge": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    }
+}
+

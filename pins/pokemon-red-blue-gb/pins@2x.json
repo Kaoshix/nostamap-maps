@@ -1,0 +1,106 @@
+{
+    "tm-hm": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "TM-HM"
+    },
+    "item": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Item"
+    },
+    "quest-item": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Special Item"
+    },
+    "common": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Common"
+    },
+    "legendary": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Legendary"
+    },
+    "trainer": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Trainer"
+    },
+    "champion": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Champion"
+    },
+    "trade": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Trade"
+    },
+    "swap": {
+        "x": 240,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "waiting": {
+        "x": 320,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "achievement-blue": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement Blue"
+    },
+    "achievement-red": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement Red"
+    },
+    "missable-badge": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    }
+}
+

@@ -1,0 +1,266 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 400,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Secret Path"
+    },
+    "missable-badge": {
+        "x": 720,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    },
+    "door": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Door"
+    },
+    "energy-recharge": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Recharge"
+    },
+    "missile-reload": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Recharge"
+    },
+    "save": {
+        "x": 240,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Save"
+    },
+    "missile": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Missile"
+    },
+    "super-missile": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Super Missile"
+    },
+    "power-bomb": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Power Bomb"
+    },
+    "reserve-tank": {
+        "x": 240,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Reserve Tank"
+    },
+    "energy-tank": {
+        "x": 320,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Energy Tank"
+    },
+    "map-data": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Map Data"
+    },
+    "morph-ball": {
+        "x": 0,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "bomb": {
+        "x": 80,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "jump-boots": {
+        "x": 160,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "varia-suit": {
+        "x": 240,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "speed-booster": {
+        "x": 320,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "space-jump": {
+        "x": 400,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "xray-scope": {
+        "x": 480,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "screw-attack": {
+        "x": 560,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "spring-ball": {
+        "x": 640,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "grappling-beam": {
+        "x": 720,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "charge-beam": {
+        "x": 0,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "spazer": {
+        "x": 80,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "wave-beam": {
+        "x": 160,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "ice-beam": {
+        "x": 240,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "plasma-beam": {
+        "x": 320,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    },
+    "gravity-suit": {
+        "x": 400,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrade"
+    }
+}
+

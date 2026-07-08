@@ -1,0 +1,506 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "heart-container": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Heart Container"
+    },
+    "heart-piece": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Heart Piece"
+    },
+    "rupee": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Misc"
+    },
+    "shell": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Misc"
+    },
+    "small-shield": {
+        "x": 400,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "magical-shield": {
+        "x": 480,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "bow": {
+        "x": 560,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "light-arrow": {
+        "x": 640,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "boomerang": {
+        "x": 720,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "magical-boomerang": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "gust-jar": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "cane-of-pacci": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "pegasus-boots": {
+        "x": 240,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "flippers": {
+        "x": 320,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "mole-mitts": {
+        "x": 400,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "flame-lantern": {
+        "x": 480,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "cape": {
+        "x": 560,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "grip-ring": {
+        "x": 640,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "power-bracelets": {
+        "x": 720,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "ocarina-of-wind": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "tiger-scroll": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "remote-bomb": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "smiths-sword": {
+        "x": 240,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "white-sword": {
+        "x": 320,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "bomb-bag": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "quiver": {
+        "x": 480,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "wallet": {
+        "x": 560,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "empty-bottle": {
+        "x": 640,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "kinstone-bag": {
+        "x": 720,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "butterfly": {
+        "x": 0,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Equipment"
+    },
+    "green-kinstone-piece": {
+        "x": 80,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Piece"
+    },
+    "blue-kinstone-piece": {
+        "x": 160,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Piece"
+    },
+    "red-kinstone-piece": {
+        "x": 240,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Piece"
+    },
+    "green-kinstone-fusion": {
+        "x": 320,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Fusion"
+    },
+    "blue-kinstone-fusion": {
+        "x": 400,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Fusion"
+    },
+    "red-kinstone-fusion": {
+        "x": 480,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Kinstone Fusion"
+    },
+    "small-key": {
+        "x": 560,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "big-key": {
+        "x": 640,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "dungeon-compass": {
+        "x": 720,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "dungeon-map": {
+        "x": 0,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "earth-element": {
+        "x": 80,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "fire-element": {
+        "x": 160,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "water-element": {
+        "x": 240,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "wind-element": {
+        "x": 320,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "spare-key": {
+        "x": 400,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "graveyard-key": {
+        "x": 480,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "book": {
+        "x": 560,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "wake-up-mushroom": {
+        "x": 640,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "jabber-nut": {
+        "x": 720,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "broken-picori-blade": {
+        "x": 0,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "gold-kinstone-piece": {
+        "x": 80,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "gold-kinstone-fusion": {
+        "x": 160,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "quest": {
+        "x": 240,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest"
+    },
+    "swap": {
+        "x": 320,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "fairy": {
+        "x": 400,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Fairies Fontain"
+    },
+    "shop": {
+        "x": 480,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Shop"
+    },
+    "wind-crest": {
+        "x": 560,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Wind Crest"
+    },
+    "goron": {
+        "x": 640,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Character"
+    },
+    "potion": {
+        "x": 720,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Misc"
+    },
+    "achievement": {
+        "x": 0,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement"
+    },
+    "missable-badge": {
+        "x": 80,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    },
+    "tingle-trophy": {
+        "x": 160,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    }
+}
+

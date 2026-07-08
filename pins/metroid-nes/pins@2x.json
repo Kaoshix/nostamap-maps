@@ -1,0 +1,146 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 400,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Secret Path"
+    },
+    "missable-badge": {
+        "x": 720,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    },
+    "missile": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Missile Pack"
+    },
+    "energy": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Energy Tank"
+    },
+    "door": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Door"
+    },
+    "morph-ball": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "bomb": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "boots": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "screw-attack": {
+        "x": 240,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "varia": {
+        "x": 320,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "long-beam": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "ice-beam": {
+        "x": 480,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    },
+    "wave-beam": {
+        "x": 560,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Upgrades"
+    }
+}
+

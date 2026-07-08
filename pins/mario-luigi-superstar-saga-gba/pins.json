@@ -1,0 +1,186 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Achievement"
+    },
+    "missable-badge": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 2
+    },
+    "quest-item": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "character": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Character"
+    },
+    "bean": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Bean"
+    },
+    "consumable": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Consumable"
+    },
+    "quest": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest"
+    },
+    "swap": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Swap"
+    },
+    "shop": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Shop"
+    },
+    "boss": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Boss"
+    },
+    "beanlet": {
+        "x": 120,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "bean-fruit": {
+        "x": 160,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "neon-egg": {
+        "x": 0,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "beanstone": {
+        "x": 40,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "coin": {
+        "x": 80,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Coin"
+    },
+    "equipment": {
+        "x": 120,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "beanstar": {
+        "x": 160,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "save": {
+        "x": 0,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Save"
+    },
+    "skill": {
+        "x": 40,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Skill"
+    },
+    "accessory": {
+        "x": 80,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "badge": {
+        "x": 120,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Equipment"
+    },
+    "pipe": {
+        "x": 160,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Overworld Teleport"
+    }
+}
+
