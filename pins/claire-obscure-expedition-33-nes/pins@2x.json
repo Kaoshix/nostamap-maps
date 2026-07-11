@@ -94,6 +94,14 @@
         "pixelRatio": 2,
         "subtype": "Picto"
     },
+    "chroma-catalyst": {
+        "x": 320,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Chroma Catalyst"
+    },
     "flag": {
         "x": 0,
         "y": 160,
@@ -101,6 +109,38 @@
         "height": 80,
         "pixelRatio": 2,
         "subtype": "Flag"
+    },
+    "special-boss": {
+        "x": 0,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Special Boss"
+    },
+    "side-quest": {
+        "x": 0,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Side Quest"
+    },
+    "music": {
+        "x": 0,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Music"
+    },
+    "cosmetic": {
+        "x": 80,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Cosmetic"
     }
 }
 
