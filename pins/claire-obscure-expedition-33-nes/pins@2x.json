@@ -102,6 +102,14 @@
         "pixelRatio": 2,
         "subtype": "Chroma Catalyst"
     },
+    "tint": {
+        "x": 400,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Tint"
+    },
     "flag": {
         "x": 0,
         "y": 160,
@@ -109,6 +117,22 @@
         "height": 80,
         "pixelRatio": 2,
         "subtype": "Flag"
+    },
+    "door": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Manor's door"
+    },
+    "shop": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Shop"
     },
     "special-boss": {
         "x": 0,
@@ -141,6 +165,46 @@
         "height": 80,
         "pixelRatio": 2,
         "subtype": "Cosmetic"
+    },
+    "book": {
+        "x": 160,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Journal Entry"
+    },
+    "weapon": {
+        "x": 240,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "ladder": {
+        "x": 0,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
+    "grapple": {
+        "x": 80,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
+    "lock": {
+        "x": 0,
+        "y": 560,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Paint Cage Lock"
     }
 }
 
