@@ -213,6 +213,14 @@
         "height": 80,
         "pixelRatio": 2,
         "subtype": "Paint Cage Lock"
+    },
+    "pointing": {
+        "x": 0,
+        "y": 560,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Special Boss"
     }
 }
 
