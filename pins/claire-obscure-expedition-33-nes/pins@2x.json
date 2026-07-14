@@ -198,6 +198,14 @@
         "pixelRatio": 2,
         "subtype": "Platformer Change"
     },
+    "climb": {
+        "x": 160,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
     "lock": {
         "x": 0,
         "y": 560,
