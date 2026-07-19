@@ -1,0 +1,226 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 80,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 160,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 240,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 320,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 400,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Secret Path"
+    },
+    "monster": {
+        "x": 480,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Monster"
+    },
+    "missable-badge": {
+        "x": 720,
+        "y": 0,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2
+    },
+    "chroma": {
+        "x": 0,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Chroma"
+    },
+    "lumina": {
+        "x": 80,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Colour of Lumina"
+    },
+    "recoat": {
+        "x": 160,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Recoat"
+    },
+    "picto": {
+        "x": 240,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Picto"
+    },
+    "chroma-catalyst": {
+        "x": 320,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Chroma Catalyst"
+    },
+    "tint": {
+        "x": 400,
+        "y": 80,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Tint"
+    },
+    "flag": {
+        "x": 0,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Flag"
+    },
+    "door": {
+        "x": 80,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Manor's Door"
+    },
+    "shop": {
+        "x": 160,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Shop"
+    },
+    "special-boss": {
+        "x": 0,
+        "y": 240,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Special Boss"
+    },
+    "side-quest": {
+        "x": 0,
+        "y": 320,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Side Quest"
+    },
+    "music": {
+        "x": 0,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Music Record"
+    },
+    "cosmetic": {
+        "x": 80,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Cosmetic"
+    },
+    "book": {
+        "x": 160,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Journal Entry"
+    },
+    "weapon": {
+        "x": 240,
+        "y": 400,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Weapon"
+    },
+    "ladder": {
+        "x": 0,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
+    "grapple": {
+        "x": 80,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
+    "climb": {
+        "x": 160,
+        "y": 480,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Platformer Change"
+    },
+    "lock": {
+        "x": 0,
+        "y": 560,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Paint Cage Lock"
+    },
+    "pointing": {
+        "x": 80,
+        "y": 560,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Special Boss"
+    }
+}
+
