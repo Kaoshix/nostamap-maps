@@ -1,0 +1,106 @@
+{
+    "waiting": {
+        "x": 0,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 40,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Achievement"
+    },
+    "quest-item": {
+        "x": 80,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "swap": {
+        "x": 120,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Swap"
+    },
+    "boss": {
+        "x": 160,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Boss"
+    },
+    "secret-path": {
+        "x": 200,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Secret Path"
+    },
+    "monster": {
+        "x": 240,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Monster"
+    },
+    "missable-badge": {
+        "x": 360,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 2
+    },
+    "chroma": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Chroma"
+    },
+    "lumina": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Colour of Lumina"
+    },
+    "recoat": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Recoat"
+    },
+    "picto": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Picto"
+    },
+    "flag": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Flag"
+    }
+}
+
