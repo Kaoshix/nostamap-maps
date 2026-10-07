@@ -286,13 +286,13 @@
         "pixelRatio": 2,
         "subtype": "Lock"
     },
-    "pointer": {
+    "tips": {
         "x": 80,
         "y": 560,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Pointer"
+        "subtype": "Tips"
     }
 }
 
