@@ -142,6 +142,22 @@
         "pixelRatio": 2,
         "subtype": "Music"
     },
+    "armor": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Armor"
+    },
+    "accessory": {
+        "x": 480,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Accessory"
+    },
     "monster": {
         "x": 0,
         "y": 240,
