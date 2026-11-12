@@ -1,0 +1,258 @@
+{
+    "waiting": {
+        "x": 400,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": ""
+    },
+    "achievement": {
+        "x": 440,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Achievement"
+    },
+    "missable-badge": {
+        "x": 480,
+        "y": 0,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1
+    },
+    "swap": {
+        "x": 0,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Swap"
+    },
+    "shop": {
+        "x": 40,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Shop"
+    },
+    "save": {
+        "x": 80,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Save"
+    },
+    "arena": {
+        "x": 120,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Arena"
+    },
+    "teleport": {
+        "x": 160,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Teleport"
+    },
+    "area": {
+        "x": 200,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Area"
+    },
+    "door": {
+        "x": 240,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Door"
+    },
+    "inn": {
+        "x": 280,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Inn"
+    },
+    "secret-path": {
+        "x": 320,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Secret Path"
+    },
+    "flag": {
+        "x": 360,
+        "y": 40,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Flag"
+    },
+    "weapon": {
+        "x": 0,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Weapon"
+    },
+    "quest-item": {
+        "x": 40,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Quest Item"
+    },
+    "cosmetic": {
+        "x": 80,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Cosmetic"
+    },
+    "book": {
+        "x": 120,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Book"
+    },
+    "music": {
+        "x": 160,
+        "y": 80,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Music"
+    },
+    "monster": {
+        "x": 0,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Monster"
+    },
+    "boss": {
+        "x": 40,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Boss"
+    },
+    "special-boss": {
+        "x": 80,
+        "y": 120,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Special Boss"
+    },
+    "character": {
+        "x": 0,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Character"
+    },
+    "side-quest": {
+        "x": 40,
+        "y": 160,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Side Quest"
+    },
+    "easter-egg": {
+        "x": 160,
+        "y": 320,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Easter Egg"
+    },
+    "money": {
+        "x": 0,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Money"
+    },
+    "misc-item": {
+        "x": 40,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Misc Item"
+    },
+    "consummable": {
+        "x": 80,
+        "y": 200,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Consummable"
+    },
+    "ladder": {
+        "x": 0,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Ladder"
+    },
+    "grapple": {
+        "x": 40,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Grapple"
+    },
+    "climb": {
+        "x": 80,
+        "y": 240,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Climb"
+    },
+    "lock": {
+        "x": 0,
+        "y": 280,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Lock"
+    },
+    "pointer": {
+        "x": 40,
+        "y": 280,
+        "width": 40,
+        "height": 40,
+        "pixelRatio": 1,
+        "subtype": "Pointer"
+    }
+}
+
