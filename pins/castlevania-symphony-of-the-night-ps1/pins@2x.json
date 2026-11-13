@@ -142,13 +142,29 @@
         "pixelRatio": 2,
         "subtype": "Music"
     },
-    "armor": {
+    "head": {
         "x": 400,
         "y": 160,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Armor"
+        "subtype": "Head"
+    },
+    "body": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Body"
+    },
+    "cloak": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Cloak"
     },
     "accessory": {
         "x": 480,
