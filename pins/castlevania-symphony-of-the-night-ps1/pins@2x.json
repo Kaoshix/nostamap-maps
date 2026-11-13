@@ -110,6 +110,14 @@
         "pixelRatio": 2,
         "subtype": "Weapon"
     },
+    "shield": {
+        "x": 400,
+        "y": 160,
+        "width": 80,
+        "height": 80,
+        "pixelRatio": 2,
+        "subtype": "Shield"
+    },
     "quest-item": {
         "x": 80,
         "y": 160,
