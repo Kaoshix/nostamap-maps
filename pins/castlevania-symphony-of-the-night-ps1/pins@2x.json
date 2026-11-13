@@ -278,13 +278,13 @@
         "pixelRatio": 2,
         "subtype": "Climb"
     },
-    "lock": {
+    "mechanism": {
         "x": 0,
         "y": 560,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Lock"
+        "subtype": "Mechanism"
     },
     "pointer": {
         "x": 80,
