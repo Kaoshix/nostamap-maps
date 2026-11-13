@@ -118,29 +118,29 @@
         "pixelRatio": 2,
         "subtype": "Quest Item"
     },
-    "cosmetic": {
+    "life-max-up": {
         "x": 160,
         "y": 160,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Cosmetic"
+        "subtype": "Life Max Up"
     },
-    "book": {
+    "relic": {
         "x": 240,
         "y": 160,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Book"
+        "subtype": "Relic"
     },
-    "music": {
+    "heart-max-up": {
         "x": 320,
         "y": 160,
         "width": 80,
         "height": 80,
         "pixelRatio": 2,
-        "subtype": "Music"
+        "subtype": "Heart Max Up"
     },
     "head": {
         "x": 400,
